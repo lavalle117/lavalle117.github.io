@@ -1,0 +1,97 @@
+<htm> 
+<head>
+	<title>Jefe maestro</title>
+	<style type="text/css">
+	
+	#header {
+		margin:auto;
+		width:500px;
+		font-family:Arial, Helvetica, sans-serif;
+	}
+	
+	ul, ol {
+		list-style:none;
+	}
+	
+	.nav {
+		width:1500px;
+		margin:0 auto;
+	
+	}
+	
+	.nav >li {
+		float:left;
+	}	
+	
+	.nav li a {
+		background-color:#7ACC8C;
+		color:#434343;
+		text-decoration:none;
+		padding:10px 15px;
+		display:block;
+		
+	}
+	
+	.nav li a:hover {
+		background-color:#A1DC96;
+	}
+	
+	.nav li ul {
+		display:none;
+		position:absolute;
+		min-width:50px;
+	}
+	
+	.nav li:hover > ul {
+		display:block;	
+	}
+	
+	.nav li ul li {
+		position:relative;
+	}
+	
+	.nav li ul li ul {
+		right:-250px;
+		top:0px;
+	}
+	</style>		
+</head>
+
+<body>
+	
+	
+	<div id="header">
+		<ul class="nav">
+			<li><a href="">Inicio</a>
+				<ul>
+					<li><a haref="">TIC IV</a>
+						
+					</ul>
+					<li><a haref="">Software de diseño</a>
+						<ul>
+							<li><a haref="">Paginas Web </a>
+								<ul>
+									<li><a href="">Introduccion al Diseño Web</a>
+									<li><a href="">HTMl Y CCS</a>	
+										</ul>
+										
+								</ul>
+								<li><a href="">Acerca De</a>
+									<ul>
+										<li><a href="">La saga Halo</a></li>
+										<li><a href="">El Jefe Maestro,respresenta al Xbox</a></li>
+									
+									</ul>
+									</li>
+									<li><a href="">Contacto</a>
+										<ul>
+											<li><a href="">fer_lav14@hotmail.com</a>
+												<li><a href="">WhatsApp</a>
+												
+													
+												</ul>
+			  	
+			</ul>
+		</div>
+</body>
+</htm>

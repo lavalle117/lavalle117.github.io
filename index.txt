@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Pagina Web</title>
+    </head>
+    <frameset cols="300,*">
+     <frame name="Fila Arriba" src="C:\Users\DANY\Desktop\32r23r23\COLUMNA IZQ.html">
+   
+    <frameset rows="125,*150,*175,*">
+     <frame name="FILA ARRIBA" src="C:\Users\DANY\Desktop\32r23r23\COLUMNA DE ARRIBA.html">
+     <frame name="BIENVENIDOS" src="C:\Users\DANY\Desktop\32r23r23\BIENVENIDOS.html">
+     <frame name="Menu despegable" src="C:\Users\DANY\Desktop\32r23r23\MENU HIPERVINCULO.html">
+
+      
+    
+</html>       
